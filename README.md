@@ -68,10 +68,13 @@ Sözler'deki ilk 3599 kelimenin tekrar toplamı :  20769
 ```
 
 Şimdi de elde ettiğimiz sonuçların yüzdesini hesaplayalım. Formülümüz;
-100 X İlk 100 kelimenin tekrar toplamı / Bir kitaptaki tekrarlanan kelimelerin adedini 
 
+100 X İlk 100 kelimenin tekrar toplamı / Bir kitaptaki tekrarlanan kelimelerin adedi
+
+```
 100 X 4540 = 454000
 454000 / 27092 = %16,75
+```
 
 Evet 100 kelime tekrarların yaklaşık %17 sini karşılıyor. Başlangıç için çok iyi öyle değil mi?
 
