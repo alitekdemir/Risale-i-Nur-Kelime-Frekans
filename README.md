@@ -1,13 +1,16 @@
-# Risale-i-Nur-Kelime-Frekans
+# Risale-i Nur Kelime Frekansı
+
 **Risale-i Nur'da Sıklıkla Kullanılan Kelimelerin Periyodik Olarak Tekrarlanma Oranı (Frekansı)**
 
+### Sayfa altlarındaki sözlüğe bakmaktan kurtulmak mümkün!
+
 Risale-i Nur okuyanların en fazla yaşadığı problem, birçok kelimeyi bilmemek veya anlamını hatırlayamamaktır.
-Aslında eserlerde geçen pek çok kelimeyi Türkçe bilen hemen hemen herkesin bilmesine rağmen çok az kullandığından zihninde anlamı oturtması için tekrar etmesi gerekiyor. Bu durumdan dolayı yorulan kimseler ümitsizliğe kapılıp eseri okumayı terk edebiliyorlar.
-Burada amaçladığm, kelimelerin öğrenme sürecini ALFABETİK sıraya göre değil kelimelerin sıklık sırasına göre düzenlemek.
+Aslında eserlerde geçen pek çok kelimeyi, Türkçe bilen hemen hemen herkesin bilmesine rağmen kelimeleri çok az kullandığından, zihninde anlamı oturtması için tekrar etmesi gerekiyor. Bu durumdan dolayı yorulan kimseler ümitsizliğe kapılıp eseri okumayı terk edebiliyorlar.
+**Burada amaçladığm, kelimelerin öğrenme sürecini ALFABETİK sıraya göre değil kelimelerin sıklık sırasına göre düzenlemek.**
 Böylelikle her yeni okuyucu çok hızlı bir şekilde eserlerden tek başına daha doğru istifade edebilmeye başlayacaktır.
 ## *Frekansı en çok olanı önce öğrenerek sözlüklere daha az bakmaya matematiksel bir yaklaşım.*
 
-Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre örneğin Sözler adlı kitaptaki 9922 farklı kelimeyi (bunların bir kısmı eklerle türetilmiştir, hakiki, hakikat, hakaik gibi) bilebilseydik 27092 defa sayfa altına bakma ihtiyacı duymazdık. Tabi bu kadar kelimeyi öğrenmek zaman alacaktır fakat başlangıç için en çok kullanılan kelimelerin ilk 200 adeti acaba bize ne kazandırırdı? En çok tekrarlanan ilk 100 kelime veya 200 kelime toplamda kaç tekrar gücüne sahip ve biz sayfa altlarına bakmaktan yüzde kaç kurtulabiliriz.
+Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre örneğin Sözler adlı kitaptaki 9922 farklı kelimeyi (bunların bir kısmı eklerle türetilmiştir; hakiki, hakikat, hakaik gibi) bilebilseydik 27092 defa sayfa altına bakma ihtiyacı duymazdık. Tabi bu kadar kelimeyi öğrenmek zaman alacaktır fakat başlangıç için en çok kullanılan kelimelerin ilk 100 adeti acaba bize ne kazandırırdı? En çok tekrarlanan ilk 300 veya 500 kelime toplamda kaç tekrar gücüne sahip? Bizi kaç defa sayfa altlarına bakmaktan kurtarabilir?
 
 | Kitap     | Mükerrer Kelime | Özgün Kelime |
 | --------- | --------------- | ------------ |
@@ -19,7 +22,7 @@ Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre 
 | Barla     | 22451           | 7822         |
 | Muhakemat | 12016           | 5199         |
 
-
+Aşağıdaki kod yaptığım çalışmada kullandığım bir parça. Kodların tamamını yukarıdaki "Risale_i_Nur_Kelime_Analizleri_2022_07_28.ipynb" dosyasında bulabilirsiniz.
 ```python
 soz1defa         = sozler['kelime'].value_counts().where(sozler['kelime'].value_counts() == 1).dropna().size
 soz1den_buyukler = sozler['kelime'].value_counts().where(sozler['kelime'].value_counts() > 1).dropna().size
