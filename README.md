@@ -37,7 +37,8 @@ Sözler'de 1 defa kullanılan kelimeler 6323
 ```
 
 Görüldüğü üzere öğrenilmesi gereken 9922 kelimenin 6323 adeti sadece 1 defa kullanılmış görünüyor.
-3599 adet kelime ise 2 veya daha fazla kullanılmış.
+3599 adet kelime ise 2 veya daha fazla kullanılmış. Yaklaşık 2 katı kadar kelime Sözler adlı eserde bir defa kullanılmış.
+Buradan yola çıkarak kelimelerin pek çoğunun ilgili konuya özel ve sadece yerinde kullanıldığını görebiliriz. Ayrıca sayfa altlarında bulunan kelimeleri derleme şeklimiz %100 doğru sonuca ulaşmamızı engellediğini de belirtmek gerekli. Çünkü sayfa altındaki kelime listesine erisale.com gibi sitelerden derledik. Bir sayfada birden fazla tekrarı olmuş olsa bile sayfa altında bir defa geçtiğinden frekans değeri etkilenmiş olacaktır. Fakat ilk 500 kelime listesi içinde sırası değişse de liste içinde kalacağını (%90+) söyleyebiliriz.
 
 --------
 
