@@ -45,22 +45,15 @@ Buradan yola çıkarak kelimelerin pek çoğunun ilgili konuya özel ve sadece y
 Şimdi en çok kullanılan kelimelerin tekrarlarına odaklanalım.
 İlk 100, 200 ... 1000 ve 2'den fazla tekrarlananların toplam değerini bulalım.
 ```python
-ozgun   = sozler['kelime'].value_counts()
-soz100  = ozgun.head(100).sum()
-soz200  = ozgun.head(200).sum()
-soz300  = ozgun.head(300).sum()
-soz400  = ozgun.head(400).sum()
-soz500  = ozgun.head(500).sum()
-soz1000 = ozgun.head(1000).sum()
-soz3599 = ozgun.head(3599).sum()
+ozgun = sozler['kelime'].value_counts()
 
-print("Sözler'deki ilk 100 kelimenin tekrar toplamı : ",  soz100)
-print("Sözler'deki ilk 200 kelimenin tekrar toplamı : ",  soz200)
-print("Sözler'deki ilk 300 kelimenin tekrar toplamı : ",  soz300)
-print("Sözler'deki ilk 400 kelimenin tekrar toplamı : ",  soz400)
-print("Sözler'deki ilk 500 kelimenin tekrar toplamı : ",  soz500)
-print("Sözler'deki ilk 1000 kelimenin tekrar toplamı : ", soz1000)
-print("Sözler'deki ilk 3599 kelimenin tekrar toplamı : ", soz3599)
+print("Sözler'deki ilk 100 kelimenin tekrar toplamı : ",  ozgun.head(100).sum())
+print("Sözler'deki ilk 200 kelimenin tekrar toplamı : ",  ozgun.head(200).sum())
+print("Sözler'deki ilk 300 kelimenin tekrar toplamı : ",  ozgun.head(300).sum())
+print("Sözler'deki ilk 400 kelimenin tekrar toplamı : ",  ozgun.head(400).sum())
+print("Sözler'deki ilk 500 kelimenin tekrar toplamı : ",  ozgun.head(500).sum())
+print("Sözler'deki ilk 1000 kelimenin tekrar toplamı : ", ozgun.head(1000).sum())
+print("Sözler'deki ilk 3599 kelimenin tekrar toplamı : ", ozgun.head(3599).sum())
 ```
 Yukarıdaki kod çıktı olarak aşağıdaki sonuçları vermektedir.
 ```
