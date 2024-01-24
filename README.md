@@ -18,7 +18,7 @@ Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre 
 Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 13629 defa azalmış olacaktır.
 
 
-| Kitap                      |   Toplam Kelime  |   Özgün Kelime |   100 K |   200 K |   300 K |   400 K |   500 K |    1000 K |   2000 K |
+| Kitap                      |   Toplam Kelime  |   Özgün Kelime |   100 Kelime |   200 Kelime |   300 Kelime |   400 Kelime |   500 Kelime |    1000 Kelime|   2000 Kelime |
 | -------------------------- | ---------------  | -------------- | ------- | ------- | ------- | ------- | ------- |  -------- | -------- |
 | Sözler                     |           56385  |          13629 |   12234 |   17185 |   20647 |   23231 |   25288 |     32042 |    39050 |
 | Mektubat                   |           33331  |           9473 |    7074 |    9953 |   12007 |   13616 |   14930 |     19229 |    23570 |
