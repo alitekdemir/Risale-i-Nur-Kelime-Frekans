@@ -10,12 +10,12 @@ Aslında eserlerde geçen pek çok kelimeyi, Türkçe bilen hemen hemen herkesin
 Böylelikle her yeni okuyucu çok hızlı bir şekilde eserlerden tek başına daha doğru istifade edebilmeye başlayacaktır.
 ## *Frekansı en çok olanı önce öğrenerek sözlüklere daha az bakmaya matematiksel bir yaklaşım.*
 
-Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre örneğin Sözler adlı kitaptaki 9922 farklı kelimeyi (bunların bir kısmı eklerle türetilmiştir; hakiki, hakikat, hakaik gibi) bilebilseydik 56385 defa sayfa altına bakma ihtiyacı duymazdık. Tabi bu kadar kelimeyi öğrenmek zaman alacaktır fakat başlangıç için en çok kullanılan kelimelerin ilk 100 adeti acaba bize ne kazandırırdı? En çok tekrarlanan ilk 300 veya 500 kelime toplamda kaç tekrar gücüne sahip? Bizi kaç defa sayfa altlarına bakmaktan kurtarabilir?
+Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre örneğin Sözler adlı kitaptaki 13629 farklı kelimeyi (bunların bir kısmı eklerle türetilmiştir; hakiki, hakikat, hakaik gibi) bilebilseydik 56385 defa sayfa altına bakma ihtiyacı duymazdık. Tabi bu kadar kelimeyi öğrenmek zaman alacaktır fakat başlangıç için en çok kullanılan kelimelerin ilk 100 adeti acaba bize ne kazandırırdı? En çok tekrarlanan ilk 300 veya 500 kelime toplamda kaç tekrar gücüne sahip? Bizi kaç defa sayfa altlarına bakmaktan kurtarabilir?
 
 <br/><br/>
 
 ## Kelimelerin karşıladığı **rakamsal** değerler.
-Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 13629 defa azalmış olacaktır.
+Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 12234 defa azalmış olacaktır.
 
 
 | Kitap                      |   Toplam Kelime  |   Özgün Kelime |   100 Kelime |   200 Kelime |   300 Kelime |   400 Kelime |   500 Kelime |    1000 Kelime|   2000 Kelime |
