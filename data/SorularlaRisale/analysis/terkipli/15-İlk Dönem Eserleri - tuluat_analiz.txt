@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - tuluat.csv
+Toplam kelime sayısı: 919
+Benzersiz kelime sayısı: 579
+
+En sık kullanılan kelimeler:
+haşiye: 9
+cerbeze: 6
+ihtilâf: 6
+şeriat: 5
+ene: 5
+nazar: 5
+seyyie: 5
+ecnebî: 5
+fetvâ: 4
+nev’i: 4
+
+İlk 10 kelimenin toplamı: 54
+İlk 10 kelimenin yüzdesi: 5.88%
+
+İlk 100 kelime toplamı: 267 (29.05%)
+İlk 200 kelime toplamı: 467 (50.82%)
+İlk 250 kelime toplamı: 567 (61.70%)
+İlk 500 kelime toplamı: 840 (91.40%)
+İlk 750 kelime toplamı: 919 (100.00%)
+İlk 1000 kelime toplamı: 919 (100.00%)

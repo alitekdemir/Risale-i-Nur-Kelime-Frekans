@@ -1,0 +1,25 @@
+Dosya: 7-Asâ-yı Mûsâ.csv
+Toplam kelime sayısı: 17,228
+Benzersiz kelime sayısı: 4,635
+
+En sık kullanılan kelimeler:
+hadsiz: 220
+kâinat: 201
+hakikat: 192
+hikmet: 181
+şehadet: 152
+cihet: 115
+gayet: 112
+suret: 100
+kudret: 99
+zîhayat: 87
+
+İlk 10 kelimenin toplamı: 1,459
+İlk 10 kelimenin yüzdesi: 8.47%
+
+İlk 100 kelime toplamı: 4,955 (28.76%)
+İlk 200 kelime toplamı: 6,830 (39.64%)
+İlk 250 kelime toplamı: 7,518 (43.64%)
+İlk 500 kelime toplamı: 9,826 (57.04%)
+İlk 750 kelime toplamı: 11,262 (65.37%)
+İlk 1000 kelime toplamı: 12,287 (71.32%)

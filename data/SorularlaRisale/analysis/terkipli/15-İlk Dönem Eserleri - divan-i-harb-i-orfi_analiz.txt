@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - divan-i-harb-i-orfi.csv
+Toplam kelime sayısı: 2,926
+Benzersiz kelime sayısı: 1,732
+
+En sık kullanılan kelimeler:
+umum: 19
+şeriat: 17
+hakikat: 15
+şeriat-ı garrâ: 13
+efkâr: 12
+istibdat: 11
+sefahet: 11
+muhabbet: 10
+husumet: 9
+ittihad: 9
+
+İlk 10 kelimenin toplamı: 126
+İlk 10 kelimenin yüzdesi: 4.31%
+
+İlk 100 kelime toplamı: 599 (20.47%)
+İlk 200 kelime toplamı: 920 (31.44%)
+İlk 250 kelime toplamı: 1,050 (35.89%)
+İlk 500 kelime toplamı: 1,550 (52.97%)
+İlk 750 kelime toplamı: 1,944 (66.44%)
+İlk 1000 kelime toplamı: 2,194 (74.98%)

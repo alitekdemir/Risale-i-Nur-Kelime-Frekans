@@ -1,0 +1,25 @@
+Dosya: 2-Mektubat.csv
+Toplam kelime sayısı: 9,595
+Benzersiz kelime sayısı: 3,256
+
+En sık kullanılan kelimeler:
+etmek: 158
+ehl: 104
+hakikat: 87
+etme: 85
+suret: 72
+âlem: 69
+hayat: 59
+hak: 54
+ve: 48
+rahmet: 47
+
+İlk 10 kelimenin toplamı: 783
+İlk 10 kelimenin yüzdesi: 8.16%
+
+İlk 100 kelime toplamı: 2,551 (26.59%)
+İlk 200 kelime toplamı: 3,530 (36.79%)
+İlk 250 kelime toplamı: 3,914 (40.79%)
+İlk 500 kelime toplamı: 5,300 (55.24%)
+İlk 750 kelime toplamı: 6,190 (64.51%)
+İlk 1000 kelime toplamı: 6,866 (71.56%)

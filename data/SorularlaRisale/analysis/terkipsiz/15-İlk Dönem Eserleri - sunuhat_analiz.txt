@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - sunuhat.csv
+Toplam kelime sayısı: 4,172
+Benzersiz kelime sayısı: 1,729
+
+En sık kullanılan kelimeler:
+etme: 191
+etmek: 43
+âlem: 27
+beşer: 25
+olma: 24
+nazar: 23
+kudret: 22
+nokta: 20
+hayat: 19
+meyl: 19
+
+İlk 10 kelimenin toplamı: 413
+İlk 10 kelimenin yüzdesi: 9.90%
+
+İlk 100 kelime toplamı: 1,154 (27.66%)
+İlk 200 kelime toplamı: 1,613 (38.66%)
+İlk 250 kelime toplamı: 1,813 (43.46%)
+İlk 500 kelime toplamı: 2,498 (59.88%)
+İlk 750 kelime toplamı: 2,998 (71.86%)
+İlk 1000 kelime toplamı: 3,443 (82.53%)

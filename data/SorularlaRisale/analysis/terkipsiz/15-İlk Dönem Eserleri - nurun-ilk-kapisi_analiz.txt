@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - nurun-ilk-kapisi.csv
+Toplam kelime sayısı: 6,949
+Benzersiz kelime sayısı: 2,080
+
+En sık kullanılan kelimeler:
+etmek: 286
+ve: 59
+etme: 53
+hayat: 45
+kâinat: 44
+kudret: 44
+ehl: 36
+esmâ: 34
+kur’ân: 30
+vücud: 30
+
+İlk 10 kelimenin toplamı: 661
+İlk 10 kelimenin yüzdesi: 9.51%
+
+İlk 100 kelime toplamı: 2,135 (30.72%)
+İlk 200 kelime toplamı: 2,964 (42.65%)
+İlk 250 kelime toplamı: 3,285 (47.27%)
+İlk 500 kelime toplamı: 4,407 (63.42%)
+İlk 750 kelime toplamı: 5,121 (73.69%)
+İlk 1000 kelime toplamı: 5,621 (80.89%)

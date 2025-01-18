@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - munazarat.csv
+Toplam kelime sayısı: 5,990
+Benzersiz kelime sayısı: 2,380
+
+En sık kullanılan kelimeler:
+etme: 261
+etmek: 72
+haşiye: 44
+istibdat: 33
+ehl: 33
+hamiyet: 30
+hakikat: 30
+meşrutiyet: 28
+islâmiye: 27
+eden: 26
+
+İlk 10 kelimenin toplamı: 584
+İlk 10 kelimenin yüzdesi: 9.75%
+
+İlk 100 kelime toplamı: 1,626 (27.15%)
+İlk 200 kelime toplamı: 2,220 (37.06%)
+İlk 250 kelime toplamı: 2,463 (41.12%)
+İlk 500 kelime toplamı: 3,319 (55.41%)
+İlk 750 kelime toplamı: 3,939 (65.76%)
+İlk 1000 kelime toplamı: 4,439 (74.11%)

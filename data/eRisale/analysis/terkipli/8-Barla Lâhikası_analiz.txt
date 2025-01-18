@@ -1,0 +1,25 @@
+Dosya: 8-Barla Lâhikası.csv
+Toplam kelime sayısı: 23,345
+Benzersiz kelime sayısı: 7,487
+
+En sık kullanılan kelimeler:
+risale: 248
+fıkra: 209
+hakikat: 181
+cenâb-ı hak: 155
+mübarek: 141
+aziz: 133
+suret: 118
+sözler: 94
+nurlar: 93
+sabri: 91
+
+İlk 10 kelimenin toplamı: 1,463
+İlk 10 kelimenin yüzdesi: 6.27%
+
+İlk 100 kelime toplamı: 5,567 (23.85%)
+İlk 200 kelime toplamı: 7,722 (33.08%)
+İlk 250 kelime toplamı: 8,504 (36.43%)
+İlk 500 kelime toplamı: 11,157 (47.79%)
+İlk 750 kelime toplamı: 12,843 (55.01%)
+İlk 1000 kelime toplamı: 14,066 (60.25%)

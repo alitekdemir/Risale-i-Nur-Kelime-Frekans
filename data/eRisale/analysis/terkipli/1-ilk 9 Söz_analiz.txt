@@ -1,0 +1,25 @@
+Dosya: 1-ilk 9 Söz.csv
+Toplam kelime sayısı: 2,758
+Benzersiz kelime sayısı: 1,435
+
+En sık kullanılan kelimeler:
+rahmet: 40
+kâinat: 30
+hakikat: 19
+acz: 18
+sima: 18
+hadsiz: 17
+nefs: 17
+suret: 16
+fakr: 15
+bedbaht: 15
+
+İlk 10 kelimenin toplamı: 205
+İlk 10 kelimenin yüzdesi: 7.43%
+
+İlk 100 kelime toplamı: 862 (31.25%)
+İlk 200 kelime toplamı: 1,222 (44.31%)
+İlk 250 kelime toplamı: 1,366 (49.53%)
+İlk 500 kelime toplamı: 1,823 (66.10%)
+İlk 750 kelime toplamı: 2,073 (75.16%)
+İlk 1000 kelime toplamı: 2,323 (84.23%)

@@ -1,0 +1,25 @@
+Dosya: 6-İşârâtü'l-İ'câz.csv
+Toplam kelime sayısı: 19,587
+Benzersiz kelime sayısı: 5,205
+
+En sık kullanılan kelimeler:
+keza: 162
+cenâb-ı hak: 134
+arz: 110
+temsil: 105
+cihet: 102
+hikmet: 101
+beşer: 99
+kâinat: 93
+delâlet: 92
+münafık: 91
+
+İlk 10 kelimenin toplamı: 1,089
+İlk 10 kelimenin yüzdesi: 5.56%
+
+İlk 100 kelime toplamı: 4,813 (24.57%)
+İlk 200 kelime toplamı: 6,918 (35.32%)
+İlk 250 kelime toplamı: 7,720 (39.41%)
+İlk 500 kelime toplamı: 10,439 (53.30%)
+İlk 750 kelime toplamı: 12,172 (62.14%)
+İlk 1000 kelime toplamı: 13,353 (68.17%)

@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri.csv
+Toplam kelime sayısı: 29,217
+Benzersiz kelime sayısı: 10,552
+
+En sık kullanılan kelimeler:
+hakikat: 210
+beşer: 120
+şeriat: 114
+kâinat: 107
+cihet: 105
+sûret: 97
+meşrutiyet: 87
+umum: 84
+muhabbet: 81
+burhan: 72
+
+İlk 10 kelimenin toplamı: 1,077
+İlk 10 kelimenin yüzdesi: 3.69%
+
+İlk 100 kelime toplamı: 4,469 (15.30%)
+İlk 200 kelime toplamı: 6,701 (22.94%)
+İlk 250 kelime toplamı: 7,556 (25.86%)
+İlk 500 kelime toplamı: 10,669 (36.52%)
+İlk 750 kelime toplamı: 12,815 (43.86%)
+İlk 1000 kelime toplamı: 14,428 (49.38%)

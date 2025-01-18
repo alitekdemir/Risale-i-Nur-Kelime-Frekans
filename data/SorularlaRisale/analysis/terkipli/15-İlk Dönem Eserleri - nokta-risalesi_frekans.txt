@@ -1,0 +1,1165 @@
+kelime,frekans
+kâinat,13
+vücud,9
+melâike,6
+nükte,6
+sûret,6
+hakikat,6
+cihet,6
+şehâdet,6
+hadsiz,5
+zerre,5
+nisbeten,5
+kudret-i ezeliye,5
+intizam,5
+bilbedahe,5
+bizzarure,5
+kat’î,5
+tahakkuk,5
+saadet-i ebediye,5
+mevt,5
+kudret,5
+burhan,4
+nazar,4
+tâbi,4
+âlem,4
+envâ,4
+küll,4
+mevcudat,4
+dest-i kudret,4
+müşahede,4
+adem-i sırf,4
+menba,4
+nizam,4
+ferd,4
+tecellî,4
+vesvese,4
+haşir,3
+tevhid,3
+muhtelif,3
+beyan,3
+medhal,3
+menâbi,3
+azîm,3
+cüz’,3
+hane,3
+inkişaf,3
+kesret,3
+mülk,3
+taife,3
+dakik,3
+mülk ciheti,3
+münasip,3
+nimet,3
+sair,3
+şems,3
+tasdik,3
+zevi’l-ervâh,3
+delâlet etme,3
+şeriat,3
+âlem-i şehâdet,3
+kavânin,3
+irade-i ezeliye,3
+keyfiyet,3
+vehim,3
+hads-i kat’î,3
+neş’et etme,3
+nev’,3
+muktedir,3
+şe’n,3
+abes,3
+âmâl,3
+namzet,3
+sâni,3
+mündemiç,3
+ebed,3
+ezdâd,3
+tagayyürat,3
+vahdet,3
+imkân,3
+ziyâde,3
+inhilâl,3
+sekerat,3
+vuku,3
+mazhar olma,3
+berâhin,2
+intihab etmek,2
+mârifetullah,2
+nefis,2
+risale,2
+fehim/fehm,2
+işârât-ül i’caz,2
+kelâm,2
+kelime-i şehâdet,2
+tezahür etme,2
+arabî,2
+ilâahir,2
+lâfz,2
+âzâ,2
+esas,2
+hâkim,2
+kışır,2
+lâtif,2
+melekût,2
+muntazam,2
+müstekar,2
+şedid,2
+avâlim,2
+istinad,2
+keşşaf,2
+menzil,2
+münasebet,2
+zâhir,2
+zât-ı zülcelâl,2
+ziya,2
+âdi,2
+intizam-ı kâmil,2
+küre,2
+nar,2
+sükkân,2
+temsil,2
+umur-u hasise,2
+vahşi,2
+zuhur,2
+cüz,2
+hâli,2
+hikmet,2
+ihtiyar,2
+küre-i arz,2
+mahlûk,2
+muvafık,2
+nücûm,2
+zîşuur,2
+hilkat,2
+hüviyet,2
+inkâr,2
+ukûl-u selime,2
+ahsen,2
+birader,2
+icma,2
+itikad-ı umumî,2
+ittifak,2
+kudret-i fâtıra,2
+rü’yet,2
+sıfat-ı irade,2
+şerh etme,2
+umur,2
+hâsıl olma,2
+müşahedât,2
+tevellüd etme,2
+vücut,2
+fâil,2
+fehmetmek,2
+hads,2
+ihzar etme,2
+mahal,2
+mâni,2
+terkip,2
+cevher,2
+efkâr,2
+fıtrat,2
+istikrâ,2
+lisân,2
+meyl-i tekemmül,2
+müyûlât,2
+teşkil etme,2
+beşer,2
+cüz’î,2
+kemâl,2
+tedricî,2
+ulvî,2
+zerrât,2
+firâk-ı ebedî,2
+istidâdât,2
+rahmet,2
+umum,2
+bilbedâhe,2
+haşr-i cismânî,2
+incirar etme,2
+incizab,2
+letâif,2
+tazammun etme,2
+hâlık,2
+kat’iyen,2
+mahiyet,2
+muktazî,2
+müsâvî,2
+ârız olma,2
+azamet,2
+istib’âd,2
+melekûtiyet,2
+merâtip,2
+tahallül,2
+zerrat,2
+esbab,2
+nisbet,2
+sabıkan,2
+şuur-u küllî,2
+tesir,2
+teşahhusat,2
+avâik,2
+basit,2
+kadîr-i ezelî,2
+mukabele,2
+muvazene,2
+mümkinat,2
+müteveccih,2
+tecerrüd,2
+tecezzî,2
+zaif,2
+mizan,2
+irade,2
+mümkin,2
+ihyâ,2
+kanun-u tekâmül,2
+neşvünemâ,2
+silsile-i kâinat,2
+şecere-i hilkat,2
+tahrip,2
+cesed,2
+tahavvül,2
+tebeddül,2
+âhiret,2
+aşiret,2
+hakîm-i ezelî,2
+kavî,2
+esbab-ı tagayyür,2
+tagayyür,2
+ba’delmevt,2
+bâki,2
+bekâ,2
+istilzam etme,2
+maden,2
+bâki kalmak,2
+şuur,2
+âciz,1
+arzu etmek,1
+âsi,1
+beyan etmek,1
+delâil,1
+fehm-i kasır,1
+gayetü’l-gâyât,1
+hads-i kalbi,1
+huz mâ safâ,1
+ifade-i meram,1
+kâh,1
+lâyühad,1
+lem’a,1
+maksud-u bizzat,1
+mârifetü’n-nebî,1
+muazzam,1
+muhatap,1
+müstemi,1
+müteharrî-i hakikat,1
+mütekellim,1
+nazar-ı aklî,1
+nebze,1
+rükün,1
+şuâât,1
+telif,1
+temâşâ,1
+zuhurat,1
+enfâs-ı halâik,1
+evliyâullah,1
+icmal,1
+ifade,1
+kal,1
+layuad,1
+maksad-ı âliye,1
+mârifet-i nebi,1
+meslek-i nazar,1
+minhâc-ı hadsî-i ilhamî,1
+mirâc-ı zevkî-i işrâkî,1
+mûcez,1
+muvaffak,1
+netice-i yegâne,1
+nübüvvet,1
+nüfûs-u ehl-i iman,1
+nüfûs-u mü’minîn,1
+sıdk-ı nübüvvet,1
+şuâ,1
+tarik-i tefehhüm,1
+tarik-i telâkki,1
+tarz-ı tefehhüm,1
+tarz-ı telâkkî,1
+vücud-u sâni,1
+cevher-i iman,1
+evham,1
+hidayet-i ilâhiye,1
+ihtiramsızlık,1
+istifaza etme,1
+kâri’,1
+kayyûm,1
+lâkaytlık,1
+mücahid,1
+perişaniyet,1
+tard etmek,1
+tehzib,1
+âlem-i melekût ve ervâh,1
+âlem-i mülk ve şehâdet,1
+âlem-i mülk,1
+âlet-i mükebbir,1
+asar-ı hayat,1
+batn,1
+hâdim,1
+hararet-i ruh,1
+havas,1
+hurdebînî,1
+huveyne,1
+hüküm,1
+irca’,1
+izah edilme,1
+katiyen,1
+kuvva,1
+lemaat,1
+lüb,1
+madde-i meşhure,1
+mahdum,1
+mahkûm,1
+melâike tasdiki,1
+müheyyâ,1
+nisbetinde,1
+nur-u hayat,1
+nur-u ruh,1
+rükn,1
+san’atkârane,1
+semerat,1
+tecelli,1
+tentene,1
+tereşşuhat,1
+tesâgur,1
+teşeddüd etme,1
+tezâyüd etme,1
+zahir,1
+zebed,1
+akdetmek,1
+âlem-i hava,1
+âlem-i misâl,1
+âlem-i turab,1
+avâlim-i ulviye ve ruhiye ve cismâniye,1
+burhan-ı vahdet,1
+ecsâm,1
+ekser,1
+elvanın sebeb-i vücudu,1
+esbab-ı maddiye,1
+garib,1
+havass-ı aşere,1
+ihtisas,1
+ihtiva eden,1
+inbisat,1
+istihdam etme,1
+iştirak etme,1
+ittihad ettirme,1
+kemâlât-ı vücud,1
+mâdum,1
+mir’ât-ı ruh,1
+mübadele,1
+münasebat,1
+münferit,1
+müzehher,1
+saika,1
+şâika,1
+şecer-i meyvedâr,1
+tabaka-i insaniye,1
+tasarruf,1
+tecelli-i vahdet,1
+tenevvür,1
+tesis,1
+ünsiyet,1
+ziyâ-yı akıl,1
+bîçare,1
+burûc-u sâmiye,1
+ednâ,1
+ehemmiyet,1
+envâ-ı hayat,1
+esbab-ı zâhiriye,1
+esir,1
+hads-i sadık,1
+hafî,1
+halk etme,1
+hayat-ı nebat,1
+hikmet-i beşer,1
+itkân-ı muhkem,1
+izzet-i kudret,1
+kesif,1
+kusûr-u semâviye,1
+mebzuliyet,1
+meyyit,1
+mübaşeret,1
+nakş-ı nezih,1
+nazar-ı zahirî,1
+nezih,1
+nurânî,1
+ruhaniyât,1
+sebeb-i zahirî,1
+seyyâlât-ı lâtife,1
+teâlî etmek,1
+tecellî-i merhamet,1
+tenebbüh,1
+ukde-i hayatiye,1
+ülfet,1
+vaz edilme,1
+vech,1
+zaman-ı Âdem,1
+adem-i rü’yet,1
+adem-i vücud,1
+âkilü’n-nebat,1
+âkilü’s-simak (-semek),1
+binaen,1
+bittarîki’l-evlâ,1
+burûc,1
+cân,1
+cezm etmek,1
+ecnas-ı muhtelife,1
+feza-yı lâyetenâhî,1
+hakaret,1
+hakir,1
+hasis,1
+intizam-ı muttarid,1
+itikat,1
+kasır,1
+kasr-ı nazar,1
+kesafet,1
+kıyas-ı evlevî,1
+kıyas-ı hafî-yi hadsiye,1
+kusûr-u âliye,1
+kusûr-u müzeyyene,1
+mâbeynlerinde,1
+mebni olan,1
+memlu,1
+menbâ-ı hayat,1
+müesses,1
+müteaffin,1
+müzeyyen,1
+nimbedevî,1
+sakin,1
+sefil,1
+seyyâlât,1
+şerâit-i hayat,1
+şerait-i hayatiye,1
+tenezzühgâh,1
+tesettür,1
+zîruh,1
+akıl ile nakil,1
+câmid,1
+cârî,1
+ehl-i akıl,1
+ehl-i din,1
+ehl-i edyan,1
+ehl-i hikmet,1
+erbabu’l-enva,1
+feza-yı vâsia,1
+hakikat-i hâriciye,1
+hayeviye,1
+icmâ-ı mânevî,1
+ihtilâf,1
+irtibat,1
+işrâkiyyun,1
+ittifak etmek,1
+kâfi,1
+kavânin-i sâriye,1
+kuva-yı sâriye,1
+maddiyyun,1
+mahiyât-ı mücerrede-yi ruhaniye,1
+mânâ-yı melâike,1
+meâkis,1
+mecâl,1
+melekü’l-bihar,1
+melekü’l-cibal,1
+melekü’l-emtar,1
+meşşaiyyûn,1
+mutevattinîn,1
+muztar,1
+mümessilât,1
+nam,1
+nâmuvafık,1
+nevâmis,1
+nevâmis-i câriye,1
+nevâmis-i fıtrat,1
+sakinîn,1
+semâvât-ı lâtife,1
+tabiiyyun,1
+tâbir,1
+tesmiye etme,1
+teşahhus etme,1
+teşekkül-ü ervâh,1
+tevsim etme,1
+turuk-u tabir,1
+ukalâ,1
+ukûl-u aşere,1
+umur-u itibâriye,1
+vehmiye,1
+vücud taayyün etme,1
+zübde,1
+akaid-i beşer,1
+âlemü’l-gayb,1
+avâlimü’l-ervâh,1
+ecsâm-ı lâtife-i nûrâniye,1
+ehl-i edyân,1
+envâ-ı muhtelife,1
+ervâh,1
+eşhas,1
+fert,1
+hamele,1
+ibâd-ı mükerrem,1
+ibadullah,1
+inhisar etme,1
+inkılâbât-ı beşeriye,1
+istihsan,1
+istimrar,1
+malûm,1
+mânây-ı melâike,1
+mebâdi-i zaruriye,1
+mesâil,1
+mesele-i melâike,1
+muhal,1
+muhalefet etmek,1
+muhavere,1
+müessir-i hakikî,1
+mümessil,1
+mümtesil,1
+münhasır,1
+münkasım,1
+müsbet,1
+müstemirren,1
+müvellid,1
+nevi,1
+rivayet etme,1
+şeriat-ı tekvîniye,1
+tabakât-ı vücut,1
+ümmet,1
+vücûdî,1
+zamân-ı Âdem,1
+âlem-i kur’ân,1
+bekà bulma,1
+cennet-i furkan,1
+emarât,1
+emarat-ı müteferrika,1
+esâsât-ı kat’iye,1
+hakâik,1
+icmâ,1
+istinad etme,1
+kalben,1
+kerrat,1
+makbul,1
+mâkul,1
+mebadi-i zaruriye,1
+müfettehatü’l-ebvab,1
+nev-i muhtelifü’l-esnaf,1
+ruhânî,1
+sahib-i mirac,1
+senet,1
+sûre-i kadir,1
+sûret-i tahakkuk,1
+tahakkuk etme,1
+tâhir,1
+tevatür-ü mânevî,1
+vâkıât,1
+güzel telâkki etmek,1
+hükm-ü kur’ân,1
+işârât,1
+iz’an,1
+kâbil,1
+kabiliyet-i kabul verme,1
+lem’a-yı ihtiyar,1
+lemeât-ı kast,1
+mevcut,1
+muktazi,1
+nazar-ı dikkate çarpmak,1
+nizam-ı ekmel-i kasdî,1
+nur-u kast,1
+reşahat-ı ihtiyar,1
+şûle-i hikmet,1
+tahallüb etme,1
+ziyâ-yı irade,1
+adem-i abesiyet,1
+adem-i israf,1
+cevher-i yegâne,1
+ezcümle,1
+fenn-i menâfiu’l-âzâ,1
+fevâid,1
+gubar,1
+hebâ,1
+hebaen gitme,1
+hikem,1
+hikmet-i ilâhiye,1
+hikmet-i tâmme,1
+iltizam-ı hikem,1
+inayet-i ezeliye,1
+istidâdât-ı mâneviye,1
+itina edilme,1
+kemâlin vücudu,1
+mahiyet-i hakikiye,1
+mâneviyat,1
+meyl-i saadet,1
+mükâbere,1
+müsaade etmeyen,1
+nazzâm,1
+niseb,1
+revâbıt,1
+riâyet-i mesâlih,1
+sûret-i zaife-i vâhiye,1
+tehallub,1
+timsâl,1
+âmm,1
+ânî,1
+bilittifak,1
+cemî-i fünun,1
+daimî,1
+destgâh,1
+deverân-ı dünya,1
+elem,1
+envâ-ı hayvanat,1
+eyyâm,1
+ezmine-i selâse,1
+gâlî,1
+halâs etmek,1
+ihsas,1
+ihtilâl,1
+istikrâ-i tâmm,1
+kıyamet,1
+kıyamet-i kübrâ,1
+kıyamet-i mükerrere-i nev’iye,1
+kıyamet-i nev’iye,1
+kıyamet-i şahsiye-i umumiye,1
+mahdut,1
+mâhiyet,1
+mahsur,1
+mâruf,1
+mevzu,1
+mukaddeme,1
+müddet-i ömür,1
+nur-u fikir,1
+ömr-ü beşer,1
+remz,1
+saat-ı uzmâ,1
+subh-u kıyamet,1
+şahid-i sâdık,1
+şahsî,1
+tezkiye,1
+vüs’at,1
+yevm,1
+cevher-i ruh,1
+errahmânirrahîm,1
+gayr-ı mahdut,1
+gayr-ı mahsur,1
+gayr-i mütenâhî,1
+halâs etme,1
+hasse-i hayal,1
+kabiliyât,1
+lâyetenâhî,1
+mâverâsında,1
+medd-i nazar etme,1
+meyl-i saadet-i ebediye,1
+muhakkak,1
+müteveccih olma,1
+nıkmet,1
+rahmet-i ilâhiye,1
+re’s,1
+sâni-i zülcelâl,1
+sultan-ı ruh,1
+tahavvül etmek,1
+tasavvurât,1
+teessüf,1
+vaveyla,1
+vâzıh,1
+aleyhissalâtü vesselâm,1
+cezb,1
+cilve,1
+fıtrat-ı zîşuur,1
+gaye-i hakiki,1
+hakikat-i cazibedâr,1
+hicrân-ı ebedî,1
+hicrân-ı lâyezalî,1
+i’câz,1
+ihbar,1
+ihbârât-ı kat’iye,1
+ihsan,1
+incizâbât,1
+iştiyâkât,1
+kemâlât,1
+kerem,1
+keşşâf,1
+kur’ân-ı mu’cizü’l-beyân,1
+lûtf-u merhamet,1
+maraz,1
+masdûk,1
+mazmun,1
+mehâsin,1
+miftâh,1
+muhabbet,1
+muhabbet-i hakikiye,1
+muhafaza etme,1
+musaddak,1
+musibet,1
+mükerreren,1
+nefs-i ihbâr,1
+remz-i hikmet,1
+sâdık,1
+şefkat,1
+tefekkür,1
+temerküz etmek,1
+terehhumât,1
+vaz etme,1
+vecih,1
+vicdan,1
+aktâr-ı beden,1
+âlem-i mevâlid,1
+amel etmek,1
+derece-i ihtiyaç,1
+desâtir-i mahsusa,1
+eczâ-i asliye,1
+esâs-ı kâfi,1
+eshel,1
+hareket-i kasdiye,1
+hareket-i muttaride,1
+hedef-i maksad,1
+îcad,1
+ihtiyaren,1
+imtizaç,1
+inâyet,1
+inkılâb-ı acibe,1
+inkısam etme,1
+intişar etme,1
+istib’ad,1
+istinkâr etmemek,1
+istirahat,1
+işmam etmek,1
+kanun-u mahsus,1
+kavânin-i muayyene,1
+lebbeykzen olma,1
+makam,1
+makam-ı lâyık,1
+matbah,1
+mekân-ı muayyene,1
+memur,1
+muayyen,1
+muvazzaf,1
+münasebet peyda etmek,1
+münteşir,1
+nazar-ı hikmet,1
+neş’e,1
+neş’e-i uhra,1
+neş’e-i ûla,1
+nizâmât-ı muayyene,1
+nüve,1
+rezzâk-ı hakikî,1
+sâik,1
+sâik-i muhtar,1
+sehil,1
+sûr-u israfil,1
+tabaka,1
+tabur,1
+ünsiyet (peyda etmek),1
+adalet ve hikmet-i ilâhiye,1
+adâlet-i mahza,1
+âğuş-u nazendârâne,1
+âliye,1
+âyât-ı sâire,1
+berâhîn-i lâtife,1
+fâcir,1
+fenâ-yı mutlak,1
+gaddar,1
+hülâsa,1
+hüsn-ü hulk,1
+ihvan,1
+iktiza etme,1
+intizamsız,1
+istidad,1
+istidâdât-ı gayr-ı mahdude,1
+kâinat-ı muntazama,1
+kıyas,1
+mahkeme-i kübrâ,1
+mahkûm olma,1
+mazlum,1
+mazlumiyet,1
+mecma-ı âher,1
+menabi-i aşere,1
+mühmel kalma,1
+mükâfat,1
+müsavat,1
+mütedeyyin,1
+mütenasip,1
+nihayetsiz,1
+refah,1
+tanzim etme,1
+tecziye,1
+tenezzüh,1
+tetebbu,1
+zâlim,1
+zillet,1
+zulüm,1
+acz,1
+asgar,1
+âzam,1
+cevahir,1
+fail,1
+gayr-ı mütenahî,1
+haşr-i cismanî,1
+hükmüne geçmek,1
+kadîr,1
+kanunî,1
+küllî,1
+lâzıme-i zâruriye-i nâşie-i zâtiye,1
+melzum,1
+mevâni,1
+nispet,1
+sünûhat,1
+taallûk etmek,1
+tedahül etme,1
+tedâhül,1
+zât-ı akdes,1
+zâtiye,1
+alî,1
+bürudet,1
+cevelângâh,1
+derecât,1
+derece-i kemâl,1
+emsal,1
+eser-i itkan,1
+hakikî,1
+hararet,1
+haşiye,1
+hayır-şer,1
+hüsn-kubuh,1
+hüsün,1
+ihtilâfât,1
+ilh.,1
+itkan,1
+izzet,1
+kâmet,1
+kemâl-i san’at,1
+kubh,1
+mahall-i tevarüd,1
+makdûrat,1
+mübaşir,1
+mümkünat,1
+sa’b-sehl,1
+sığar-kiber,1
+şeffafe,1
+tabiî lüzum-u zâtî,1
+tedahül,1
+tevellüd,1
+va’z edilmek,1
+vasıta,1
+vesait,1
+zahiren,1
+fehm,1
+feyz-i tecellî,1
+gàmız,1
+i’vicâcât,1
+illiyet,1
+katre,1
+mahall-i taallûk-u kudret,1
+mâlûliyet,1
+mecmu’,1
+mezcetmek,1
+mikyas,1
+müzahametsiz,1
+nâmütenâhi,1
+rüçhan,1
+sath-ı arz,1
+satıh,1
+şebih,1
+şeffafiyet,1
+tanzîr etme,1
+tasarrufat,1
+tasvir,1
+tekebbür,1
+tenakuz,1
+terettüp,1
+teshil etme,1
+timsal,1
+timsal-i şems,1
+zâtî,1
+arş,1
+asğar,1
+bilfiil,1
+cevher-i fert,1
+cüz’iyyât,1
+daire-i azîm,1
+ekber,1
+emr-i tekvinî,1
+faraza,1
+feyiz,1
+habbe,1
+hususiyat,1
+mahiyât-ı eşya,1
+mâhiyât-ı mümkinât,1
+mâhiyet-i mücerrede,1
+meyl (meyil),1
+muhit,1
+muhtar olma,1
+mutlak kemâl,1
+mutlak vücud,1
+muzaaf ihtiyaç,1
+muzaaf iştiyak,1
+muzaaf meyil,1
+müzahamet,1
+nefer,1
+nokta-i kemâl,1
+nokta-i merkeziye,1
+nüve-i imtisal,1
+sarf olunma,1
+serâ,1
+süreyya,1
+tağyir etme,1
+tahrik etme,1
+tenâkus,1
+terekküp etme,1
+teşahhusat-ı mülkiye,1
+âsâr-ı azamet,1
+cânib,1
+ebedî,1
+emr-i ezelî,1
+esrar-ı sitte,1
+ezelî,1
+gayr-ı mütenâhî,1
+icad etme,1
+imtisal,1
+incizap,1
+istinkâr,1
+itaat,1
+kuvvet-i mümkünat,1
+kün emri,1
+melekûtiyet (ciheti),1
+mutmainne,1
+mülk (canibi),1
+mümteziç,1
+müsavi,1
+mütenâhî,1
+nâkıs,1
+nazar etme,1
+ona mahsus,1
+temsilât-ı sitte,1
+ukûl,1
+zâil (olma),1
+cihet-i melekûtiyet,1
+cüz-ü asğar,1
+gayr-ı mütenâhiye,1
+hak,1
+hususiyât-ı mütenevvia,1
+in’âş,1
+küll-i âzam,1
+lâzime-i zaruriye,1
+mevt-âlûd,1
+mezkûr,1
+mukabildir,1
+mukavemet etme,1
+mutî,1
+mübâlağa,1
+mücâzefe,1
+mücerred,1
+müddeâ,1
+mütevazinü’t-tarafeyn,1
+nevm,1
+şeriat-ı fıtriye-i kübrâ,1
+tesavî-i tarafeyn olan,1
+acip,1
+âlemin imkân-ı mevti,1
+ecel-i fıtrî,1
+fennî,1
+feza,1
+hâdise-i muharrib,1
+hırhıra,1
+kabil,1
+kâinatın imkân-ı mevti,1
+maraz-ı haricî,1
+nüsha-i musağğara,1
+ömr-ü tabiî,1
+pençe-i mevt,1
+savt,1
+subh-u haşir,1
+şecer,1
+tecdid,1
+vâsi,1
+âlem-i kesif,1
+âlem-i lâtif,1
+cemî’-i edyan-ı semâviye,1
+cirim,1
+ecrâm-ı ulviye,1
+ecza-i meyyite-i hâmide-i camide-i kesife,1
+eşya,1
+fıtrat-ı selîme,1
+hafi,1
+hakikat-i uzmâ-yı kâinat,1
+hitab,1
+hummalı,1
+incimad,1
+iş’âl-i nur-u hayat,1
+kün,1
+lübb,1
+mâkûsen mütenasip,1
+mihver,1
+nâzik,1
+remz-i kudret,1
+seyr ü sefer etme,1
+şâmil,1
+tâbir caizse,1
+tağayyür,1
+temessül etmek,1
+temeyyü’,1
+anâsır,1
+cereyan eden,1
+ebedîleşme,1
+ecram,1
+fezâ-yı gayr-ı mütenâhî,1
+hakaik-i hakikiye,1
+hakaik-i nisbiye,1
+hareket-i şedide,1
+havz,1
+hikmet-i ezeliye,1
+iktizâ,1
+inayet,1
+inkılâb,1
+istidadat,1
+kabiliyat,1
+kahr,1
+lütuf,1
+mahzen,1
+meratib-i nisbiye,1
+mevadd-ı münâsib,1
+muhassal,1
+mütemevvic,1
+revabıt,1
+sada,1
+seyl-i şuûnât,1
+tahassul,1
+takarrur,1
+tasaffî,1
+tecellî etme,1
+tecelligâh,1
+tedellî etmek,1
+telâtum,1
+temerküz,1
+tesadüm,1
+tezahür,1
+unsur-u esasî,1
+vâveylâya başlama,1
+cevahir-i âliye,1
+cism-i muhkem,1
+cism-i müebbed-i müşeyyed,1
+darrı nef’a derc,1
+esasat,1
+hayrat,1
+hâzefât-ı sâfile,1
+hikem-i dakika,1
+hitab-ı teşrifîye,1
+hulûd,1
+inâyet-i ezeliye,1
+kanun-u tebeddül ve tagayyür,1
+kudret-i kâmile,1
+mazarrat,1
+mazarratı menafia mezc,1
+meclis-i imtihan,1
+mekàbihi mehasinle müçtemi halk etmek,1
+menafi,1
+meşhun,1
+mevadd-ı ihtilâf,1
+mezc,1
+mütedahil,1
+namus-u tahavvül ve tekâmül,1
+sâkin,1
+sebeb-i devam,1
+sırr-ı imtihan,1
+sırr-ı teklif,1
+şart-ı intizam,1
+şurûr,1
+tasaffi,1
+tasfiye,1
+te’bid,1
+tefrik etme,1
+tekamül,1
+vakta ki,1
+vakt-i tecrübe,1
+vücud-u müstakar,1
+evsâf-ı celâliye ve cemâliye,1
+inkıraza müncer olma,1
+istikrarsız,1
+kütüb-ü semâviye,1
+mabeyninde,1
+müttefik,1
+tahlil,1
+tecelliyat,1
+terekküp,1
+vaki olma,1
+varidat ve masârif,1
+âfâkî,1
+âlem-i berzah,1
+âlem-i ervâh,1
+bâkî kalmak,1
+binefsihi,1
+efrad,1
+enfüsî,1
+ervâh-ı bakiye,1
+gılâf-ı latîf,1
+hads-i kalbî,1
+hükmetmek,1
+hükm-ü tecrübî,1
+istiklâliyet,1
+izâle etmek,1
+kâfile,1
+kaim,1
+külliyetiyle,1
+letâfet,1
+libas,1
+mabeyn,1
+müşâhedât-ı mükerrereye incirar etme,1
+nev’i,1
+zâtî/zâtî hassa,1
+âlem-i melekût ve ervâhda,1
+âsâr,1
+bâkî,1
+besatet,1
+celle celâlühû,1
+cevâd-ı mutlak,1
+cûd,1
+ervâhlar,1
+etvar,1
+fenâ,1
+hakikat-i sâbite,1
+hakikat-i zîşuur,1
+hasra gelmez,1
+hükümran olan,1
+idam,1
+mâruz-u tagayyür olan,1
+masdar,1
+merhamet,1
+mucibe-i cüz’iye (kaziye),1
+mucibe-i külliye (kaziye),1
+müşabih,1
+nimet-i vücud,1
+şahs-ı insânî,1
+tasavvurat,1
+temin etmek,1
+unsur-u zîhayat,1
+vücudlarına,1
+vücud-u hâricî giymek,1
+vücud-u hissî olmayan,1
+ziyâ,1
+a’sârnişîn olan,1
+ahvâl,1
+âlem-i emir,1
+beyân,1
+beyân-ı mu’ciz,1
+dâimî,1
+ecyâl,1
+furkân-ı hakîm,1
+haddi yok,1
+hayy,1
+hitaben,1
+hutbe-i ezeliye,1
+iz’ân,1
+kanun-u zîşuur,1
+kemâl-i vuzuh,1
+maksad,1
+menzilgâh-ı dünya,1
+müstemir,1
+nâmus-u zîhayat,1
+nükât,1
+sufûf,1
+vücud-u hâricî giydirmek,1
+zelzeleye getirmek,1
+zîhakikat-i hâriciye,1
+zîhayat,1
+zîvücut,1

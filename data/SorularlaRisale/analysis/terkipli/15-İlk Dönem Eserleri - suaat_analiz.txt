@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - suaat.csv
+Toplam kelime sayısı: 2,182
+Benzersiz kelime sayısı: 1,724
+
+En sık kullanılan kelimeler:
+hakikat: 9
+nübüvvet: 9
+şeriat: 7
+sıdk: 7
+nükte: 7
+cihet: 7
+enbiya: 6
+nazar: 6
+şuâ: 6
+tazammun etme: 6
+
+İlk 10 kelimenin toplamı: 70
+İlk 10 kelimenin yüzdesi: 3.21%
+
+İlk 100 kelime toplamı: 390 (17.87%)
+İlk 200 kelime toplamı: 590 (27.04%)
+İlk 250 kelime toplamı: 690 (31.62%)
+İlk 500 kelime toplamı: 958 (43.90%)
+İlk 750 kelime toplamı: 1,208 (55.36%)
+İlk 1000 kelime toplamı: 1,458 (66.82%)

@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - nurun-ilk-kapisi.csv
+Toplam kelime sayısı: 5,040
+Benzersiz kelime sayısı: 2,296
+
+En sık kullanılan kelimeler:
+acz: 23
+nihayetsiz: 22
+mevcudat: 21
+hakikat: 20
+zira: 20
+lem’a: 20
+sûret: 19
+kâinat: 19
+gayet: 18
+nev’i: 17
+
+İlk 10 kelimenin toplamı: 199
+İlk 10 kelimenin yüzdesi: 3.95%
+
+İlk 100 kelime toplamı: 1,084 (21.51%)
+İlk 200 kelime toplamı: 1,611 (31.96%)
+İlk 250 kelime toplamı: 1,811 (35.93%)
+İlk 500 kelime toplamı: 2,605 (51.69%)
+İlk 750 kelime toplamı: 3,108 (61.67%)
+İlk 1000 kelime toplamı: 3,608 (71.59%)

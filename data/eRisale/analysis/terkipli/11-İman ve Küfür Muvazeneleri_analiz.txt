@@ -1,0 +1,25 @@
+Dosya: 11-İman ve Küfür Muvazeneleri.csv
+Toplam kelime sayısı: 12,218
+Benzersiz kelime sayısı: 4,134
+
+En sık kullanılan kelimeler:
+cihet: 104
+elem: 99
+hakikat: 92
+kâinat: 80
+suret: 70
+muhabbet: 70
+hadsiz: 65
+nefs: 64
+nihayetsiz: 59
+saadet: 59
+
+İlk 10 kelimenin toplamı: 762
+İlk 10 kelimenin yüzdesi: 6.24%
+
+İlk 100 kelime toplamı: 3,213 (26.30%)
+İlk 200 kelime toplamı: 4,501 (36.84%)
+İlk 250 kelime toplamı: 4,976 (40.73%)
+İlk 500 kelime toplamı: 6,633 (54.29%)
+İlk 750 kelime toplamı: 7,666 (62.74%)
+İlk 1000 kelime toplamı: 8,416 (68.88%)

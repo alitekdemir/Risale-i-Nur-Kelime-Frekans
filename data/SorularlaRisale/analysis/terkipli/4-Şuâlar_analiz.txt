@@ -1,0 +1,25 @@
+Dosya: 4-Şuâlar.csv
+Toplam kelime sayısı: 29,536
+Benzersiz kelime sayısı: 7,452
+
+En sık kullanılan kelimeler:
+hakikat: 254
+cihet: 241
+suret: 191
+risale: 145
+hadsiz: 140
+şakirt: 138
+ziyade: 135
+gayet: 112
+umum: 112
+kâinat: 112
+
+İlk 10 kelimenin toplamı: 1,580
+İlk 10 kelimenin yüzdesi: 5.35%
+
+İlk 100 kelime toplamı: 6,614 (22.39%)
+İlk 200 kelime toplamı: 9,386 (31.78%)
+İlk 250 kelime toplamı: 10,482 (35.49%)
+İlk 500 kelime toplamı: 14,323 (48.49%)
+İlk 750 kelime toplamı: 16,762 (56.75%)
+İlk 1000 kelime toplamı: 18,493 (62.61%)

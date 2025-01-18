@@ -1,0 +1,25 @@
+Dosya: 9-Kastamonu Lâhikası.csv
+Toplam kelime sayısı: 17,197
+Benzersiz kelime sayısı: 3,220
+
+En sık kullanılan kelimeler:
+etme: 335
+ehl: 181
+aziz: 177
+sıddık: 151
+şakirt: 144
+cenâb: 131
+hak: 131
+hakikat: 122
+mübarek: 122
+ve: 108
+
+İlk 10 kelimenin toplamı: 1,602
+İlk 10 kelimenin yüzdesi: 9.32%
+
+İlk 100 kelime toplamı: 5,959 (34.65%)
+İlk 200 kelime toplamı: 8,086 (47.02%)
+İlk 250 kelime toplamı: 8,840 (51.40%)
+İlk 500 kelime toplamı: 11,290 (65.65%)
+İlk 750 kelime toplamı: 12,751 (74.15%)
+İlk 1000 kelime toplamı: 13,763 (80.03%)

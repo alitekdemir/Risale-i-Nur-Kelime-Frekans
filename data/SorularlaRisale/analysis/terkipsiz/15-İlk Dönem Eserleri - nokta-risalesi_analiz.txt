@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - nokta-risalesi.csv
+Toplam kelime sayısı: 2,185
+Benzersiz kelime sayısı: 1,223
+
+En sık kullanılan kelimeler:
+etme: 58
+etmek: 22
+âlem: 21
+kudret: 20
+vücud: 19
+kâinat: 17
+olma: 13
+hakikat: 12
+nazar: 12
+şehâdet: 12
+
+İlk 10 kelimenin toplamı: 206
+İlk 10 kelimenin yüzdesi: 9.43%
+
+İlk 100 kelime toplamı: 684 (31.30%)
+İlk 200 kelime toplamı: 963 (44.07%)
+İlk 250 kelime toplamı: 1,063 (48.65%)
+İlk 500 kelime toplamı: 1,462 (66.91%)
+İlk 750 kelime toplamı: 1,712 (78.35%)
+İlk 1000 kelime toplamı: 1,962 (89.79%)

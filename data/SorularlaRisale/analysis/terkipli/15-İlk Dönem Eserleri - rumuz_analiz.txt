@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - rumuz.csv
+Toplam kelime sayısı: 442
+Benzersiz kelime sayısı: 401
+
+En sık kullanılan kelimeler:
+menba: 5
+neş’et etme: 5
+tevellüd etme: 3
+hasıl olma: 3
+burhan: 3
+hakikat: 3
+kâfir: 3
+şark: 3
+beyan etme: 2
+cezalet: 2
+
+İlk 10 kelimenin toplamı: 32
+İlk 10 kelimenin yüzdesi: 7.24%
+
+İlk 100 kelime toplamı: 141 (31.90%)
+İlk 200 kelime toplamı: 241 (54.52%)
+İlk 250 kelime toplamı: 291 (65.84%)
+İlk 500 kelime toplamı: 442 (100.00%)
+İlk 750 kelime toplamı: 442 (100.00%)
+İlk 1000 kelime toplamı: 442 (100.00%)

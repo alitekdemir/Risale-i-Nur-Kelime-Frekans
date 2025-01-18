@@ -1,0 +1,25 @@
+Dosya: 14-Tarihçe-i Hayat.csv
+Toplam kelime sayısı: 16,500
+Benzersiz kelime sayısı: 4,042
+
+En sık kullanılan kelimeler:
+etme: 339
+hakikat: 156
+ehl: 125
+ve: 111
+âlem: 102
+olma: 97
+islâm: 91
+nazar: 84
+hak: 79
+risale: 66
+
+İlk 10 kelimenin toplamı: 1,250
+İlk 10 kelimenin yüzdesi: 7.58%
+
+İlk 100 kelime toplamı: 4,324 (26.21%)
+İlk 200 kelime toplamı: 6,047 (36.65%)
+İlk 250 kelime toplamı: 6,722 (40.74%)
+İlk 500 kelime toplamı: 9,146 (55.43%)
+İlk 750 kelime toplamı: 10,662 (64.62%)
+İlk 1000 kelime toplamı: 11,740 (71.15%)

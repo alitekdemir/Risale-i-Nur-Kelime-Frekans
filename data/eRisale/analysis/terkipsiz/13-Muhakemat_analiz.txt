@@ -1,0 +1,25 @@
+Dosya: 13-Muhakemat.csv
+Toplam kelime sayısı: 13,134
+Benzersiz kelime sayısı: 4,221
+
+En sık kullanılan kelimeler:
+nazar: 119
+ve: 110
+hakikat: 89
+kelâm: 86
+hikmet: 81
+beşer: 76
+sâni: 73
+efkâr: 62
+şeriat: 58
+belâğat: 58
+
+İlk 10 kelimenin toplamı: 812
+İlk 10 kelimenin yüzdesi: 6.18%
+
+İlk 100 kelime toplamı: 3,085 (23.49%)
+İlk 200 kelime toplamı: 4,371 (33.28%)
+İlk 250 kelime toplamı: 4,872 (37.09%)
+İlk 500 kelime toplamı: 6,638 (50.54%)
+İlk 750 kelime toplamı: 7,799 (59.38%)
+İlk 1000 kelime toplamı: 8,693 (66.19%)

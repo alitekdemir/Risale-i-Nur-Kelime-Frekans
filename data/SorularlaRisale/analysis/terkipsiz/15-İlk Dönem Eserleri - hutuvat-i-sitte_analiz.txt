@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - hutuvat-i-sitte.csv
+Toplam kelime sayısı: 609
+Benzersiz kelime sayısı: 391
+
+En sık kullanılan kelimeler:
+etmek: 34
+âlem: 9
+islâm: 8
+islâmiye: 7
+hutuvât: 6
+sitte: 6
+muhal: 6
+hakikat: 5
+harb: 5
+izzet: 5
+
+İlk 10 kelimenin toplamı: 91
+İlk 10 kelimenin yüzdesi: 14.94%
+
+İlk 100 kelime toplamı: 300 (49.26%)
+İlk 200 kelime toplamı: 418 (68.64%)
+İlk 250 kelime toplamı: 468 (76.85%)
+İlk 500 kelime toplamı: 609 (100.00%)
+İlk 750 kelime toplamı: 609 (100.00%)
+İlk 1000 kelime toplamı: 609 (100.00%)

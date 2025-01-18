@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - hutbe-i-samiye.csv
+Toplam kelime sayısı: 5,785
+Benzersiz kelime sayısı: 1,696
+
+En sık kullanılan kelimeler:
+etme: 252
+hakikat: 55
+ehl: 53
+islâmiye: 45
+beşer: 45
+islâm: 38
+olma: 38
+ve: 37
+hakikî: 37
+saadet: 37
+
+İlk 10 kelimenin toplamı: 637
+İlk 10 kelimenin yüzdesi: 11.01%
+
+İlk 100 kelime toplamı: 1,890 (32.67%)
+İlk 200 kelime toplamı: 2,585 (44.68%)
+İlk 250 kelime toplamı: 2,854 (49.33%)
+İlk 500 kelime toplamı: 3,829 (66.19%)
+İlk 750 kelime toplamı: 4,448 (76.89%)
+İlk 1000 kelime toplamı: 4,948 (85.53%)

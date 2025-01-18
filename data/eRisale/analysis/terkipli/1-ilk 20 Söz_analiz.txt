@@ -1,0 +1,25 @@
+Dosya: 1-ilk 20 Söz.csv
+Toplam kelime sayısı: 16,691
+Benzersiz kelime sayısı: 5,455
+
+En sık kullanılan kelimeler:
+hakikat: 148
+kâinat: 142
+suret: 132
+hikmet: 131
+rahmet: 98
+nihayetsiz: 83
+hadsiz: 75
+mevcudat: 75
+cihet: 65
+âlem: 61
+
+İlk 10 kelimenin toplamı: 1,010
+İlk 10 kelimenin yüzdesi: 6.05%
+
+İlk 100 kelime toplamı: 3,947 (23.65%)
+İlk 200 kelime toplamı: 5,718 (34.26%)
+İlk 250 kelime toplamı: 6,339 (37.98%)
+İlk 500 kelime toplamı: 8,451 (50.63%)
+İlk 750 kelime toplamı: 9,826 (58.87%)
+İlk 1000 kelime toplamı: 10,815 (64.80%)

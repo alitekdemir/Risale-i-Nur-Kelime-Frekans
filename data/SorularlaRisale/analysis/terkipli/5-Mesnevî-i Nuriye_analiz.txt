@@ -1,0 +1,25 @@
+Dosya: 5-Mesnevî-i Nuriye.csv
+Toplam kelime sayısı: 18,092
+Benzersiz kelime sayısı: 6,042
+
+En sık kullanılan kelimeler:
+i’lem eyyühe’l-aziz: 123
+keza: 117
+âlem: 88
+binaenaleyh: 86
+hakikat: 77
+sâni: 71
+kudret: 70
+cihet: 68
+cenâb-ı hak: 67
+hâlık: 66
+
+İlk 10 kelimenin toplamı: 833
+İlk 10 kelimenin yüzdesi: 4.60%
+
+İlk 100 kelime toplamı: 3,616 (19.99%)
+İlk 200 kelime toplamı: 5,237 (28.95%)
+İlk 250 kelime toplamı: 5,862 (32.40%)
+İlk 500 kelime toplamı: 8,066 (44.58%)
+İlk 750 kelime toplamı: 9,563 (52.86%)
+İlk 1000 kelime toplamı: 10,706 (59.18%)

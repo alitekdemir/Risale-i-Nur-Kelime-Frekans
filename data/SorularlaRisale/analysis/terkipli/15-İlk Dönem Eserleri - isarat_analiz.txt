@@ -1,0 +1,25 @@
+Dosya: 15-İlk Dönem Eserleri - isarat.csv
+Toplam kelime sayısı: 560
+Benzersiz kelime sayısı: 384
+
+En sık kullanılan kelimeler:
+hakikat: 4
+âlâm: 4
+haşiye: 4
+elem: 4
+tasavvur-u zeval: 4
+israf: 3
+sadaka: 3
+heyet-i içtimaiye: 3
+kabile: 3
+nefisperest: 3
+
+İlk 10 kelimenin toplamı: 35
+İlk 10 kelimenin yüzdesi: 6.25%
+
+İlk 100 kelime toplamı: 222 (39.64%)
+İlk 200 kelime toplamı: 376 (67.14%)
+İlk 250 kelime toplamı: 426 (76.07%)
+İlk 500 kelime toplamı: 560 (100.00%)
+İlk 750 kelime toplamı: 560 (100.00%)
+İlk 1000 kelime toplamı: 560 (100.00%)

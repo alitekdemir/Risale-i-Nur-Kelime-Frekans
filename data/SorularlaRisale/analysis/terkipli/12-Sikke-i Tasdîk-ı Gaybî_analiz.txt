@@ -1,0 +1,25 @@
+Dosya: 12-Sikke-i Tasdîk-ı Gaybî.csv
+Toplam kelime sayısı: 7,787
+Benzersiz kelime sayısı: 3,561
+
+En sık kullanılan kelimeler:
+şakirt: 87
+fıkra: 59
+suret: 52
+tevafuk: 48
+keramet: 45
+hakikat: 38
+cihet: 34
+emare: 33
+aziz: 33
+haşiye: 30
+
+İlk 10 kelimenin toplamı: 459
+İlk 10 kelimenin yüzdesi: 5.89%
+
+İlk 100 kelime toplamı: 1,785 (22.92%)
+İlk 200 kelime toplamı: 2,555 (32.81%)
+İlk 250 kelime toplamı: 2,841 (36.48%)
+İlk 500 kelime toplamı: 3,843 (49.35%)
+İlk 750 kelime toplamı: 4,512 (57.94%)
+İlk 1000 kelime toplamı: 5,012 (64.36%)

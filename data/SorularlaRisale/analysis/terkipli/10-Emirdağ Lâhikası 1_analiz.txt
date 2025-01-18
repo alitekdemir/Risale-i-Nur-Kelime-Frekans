@@ -1,0 +1,25 @@
+Dosya: 10-Emirdağ Lâhikası 1.csv
+Toplam kelime sayısı: 13,564
+Benzersiz kelime sayısı: 4,146
+
+En sık kullanılan kelimeler:
+şakirt: 180
+aziz: 143
+sıddık: 133
+hakikat: 115
+cenâb-ı hak: 82
+umum: 79
+inşaallah: 74
+suret: 73
+mâsum: 73
+saniyen: 63
+
+İlk 10 kelimenin toplamı: 1,015
+İlk 10 kelimenin yüzdesi: 7.48%
+
+İlk 100 kelime toplamı: 3,867 (28.51%)
+İlk 200 kelime toplamı: 5,386 (39.71%)
+İlk 250 kelime toplamı: 5,933 (43.74%)
+İlk 500 kelime toplamı: 7,714 (56.87%)
+İlk 750 kelime toplamı: 8,820 (65.03%)
+İlk 1000 kelime toplamı: 9,586 (70.67%)

@@ -1,0 +1,25 @@
+Dosya: 3-Lem'alar.csv
+Toplam kelime sayısı: 18,217
+Benzersiz kelime sayısı: 6,868
+
+En sık kullanılan kelimeler:
+cihet: 121
+suret: 121
+hakikat: 108
+hadsiz: 83
+ziyade: 68
+âyet: 66
+cenâb-ı hak: 65
+nükte: 59
+risale: 58
+hikmet: 52
+
+İlk 10 kelimenin toplamı: 801
+İlk 10 kelimenin yüzdesi: 4.40%
+
+İlk 100 kelime toplamı: 3,338 (18.32%)
+İlk 200 kelime toplamı: 4,926 (27.04%)
+İlk 250 kelime toplamı: 5,529 (30.35%)
+İlk 500 kelime toplamı: 7,694 (42.24%)
+İlk 750 kelime toplamı: 9,105 (49.98%)
+İlk 1000 kelime toplamı: 10,178 (55.87%)

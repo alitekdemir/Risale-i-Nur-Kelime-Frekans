@@ -14,94 +14,105 @@ Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre 
 
 <br/><br/>
 
-## Kelimelerin karşıladığı **rakamsal** değerler.
+## Terkipli kelimelerin karşıladığı **rakamsal** değerler.
 Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 12234 defa azalmış olacaktır.
 
+| Kitap                         | Toplam Kelime | Özgün Kelime | 100 Kelime | 200 Kelime | 500 Kelime | 1000 Kelime |
+| ----------------------------- | ------------- | ------------ | ---------- | ---------- | ---------- | ----------- |
+| 1-Sözler                      | 56,384        | 12,692       | 12,755     | 17,883     | 26,341     | 33,366      |
+| 2-Mektubat                    | 33,332        | 8,735        | 7,376      | 10,396     | 15,612     | 20,070      |
+| 3-Lem'alar                    | 32,288        | 7,645        | 7,819      | 10,986     | 16,299     | 20,813      |
+| 4-Şuâlar                      | 46,145        | 8,682        | 11,754     | 16,367     | 24,337     | 30,863      |
+| 5-Mesnevî-i Nuriye            | 19,858        | 5,604        | 5,127      | 7,086      | 10,375     | 13,208      |
+| 6-İşârâtü'l-İ'câz             | 19,587        | 5,205        | 4,813      | 6,918      | 10,439     | 13,353      |
+| 7-Asâ-yı Mûsâ                 | 17,228        | 4,635        | 4,955      | 6,830      | 9,826      | 12,287      |
+| 8-Barla Lâhikası              | 23,345        | 7,487        | 5,567      | 7,722      | 11,157     | 14,066      |
+| 9-Kastamonu Lâhikası          | 15,358        | 4,583        | 4,692      | 6,313      | 8,881      | 10,888      |
+| 10-Emirdağ Lâhikası           | 29,175        | 6,259        | 7,964      | 11,224     | 16,369     | 20,379      |
+| 11-İman ve Küfür Muvazeneleri | 12,218        | 4,134        | 3,213      | 4,501      | 6,633      | 8,416       |
+| 12-Sikke-i Tasdîk-ı Gaybî     | 14,928        | 5,006        | 3,898      | 5,413      | 7,879      | 9,888       |
+| 13-Muhakemat                  | 9,993         | 4,882        | 1,856      | 2,684      | 4,158      | 5,569       |
+| 14-Tarihçe-i Hayat            | 39,721        | 9,072        | 8,322      | 12,070     | 18,704     | 24,466      |
+| 15-İlk Dönem Eserleri         | 29,217        | 10,552       | 4,469      | 6,701      | 10,669     | 14,428      |
 
-| Kitap                      |   Toplam Kelime  |   Özgün Kelime |   100 Kelime |   200 Kelime |   300 Kelime |   400 Kelime |   500 Kelime |    1000 Kelime|   2000 Kelime |
-| -------------------------- | ---------------  | -------------- | ------- | ------- | ------- | ------- | ------- |  -------- | -------- |
-| Sözler                     |           56385  |          13629 |   12234 |   17185 |   20647 |   23231 |   25288 |     32042 |    39050 |
-| Mektubat                   |           33331  |           9473 |    7074 |    9953 |   12007 |   13616 |   14930 |     19229 |    23570 |
-| Lem_alar                   |           32288  |           8151 |    7467 |   10538 |   12712 |   14351 |   15689 |     20118 |    24364 |
-| Şuâlar                     |           46138  |           9227 |   11551 |   16019 |   19227 |   21752 |   23740 |     30135 |    35967 |
-| Asâ-yı Mûsâ                |           17228  |           4839 |    4868 |    6667 |    7908 |    8843 |    9595 |     12033 |    14344 |
-| Barla Lâhikası             |           23344  |           7953 |    5273 |    7362 |    8753 |    9824 |   10700 |     13554 |    16533 |
-| Kastamonu Lâhikası         |           15357  |           4854 |    4532 |    6109 |    7169 |    7972 |    8606 |     10587 |    12503 |
-| Emirdağ Lâhikası           |           29171  |           6689 |    7666 |   10844 |   13014 |   14618 |   15888 |     19867 |    23590 |
-| İman ve Küfür Muvazeneleri |           12218  |           4380 |    3086 |    4318 |    5168 |    5833 |    6372 |      8143 |     9838 |
-| Tarihçe-i Hayat            |           39720  |           9745 |    7987 |   11592 |   14232 |   16294 |   18014 |     23633 |    29012 |
-
-<br/>
-
-## Kelimelerin karşıladığı **yüzdelik** dilimler.
+## Terkipli kelimelerin karşıladığı **yüzdelik** dilimler.
 Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de yüzde 21.7 oranında azalmış olacaktır.
 
-| Kitap                      |   Toplam Kelime  | 100 %   | 200 %   | 300 %   | 400 %   | 500 %   | 1000 %   | 2000 %   |
-| -------------------------- | ---------------  | ------- | ------- | ------- | ------- | ------- | -------- | -------- |
-| Sözler                     |           56385  | 21.7%   | 30.5%   | 36.6%   | 41.2%   | 44.8%   | 56.8%    | 69.3%    |
-| Mektubat                   |           33331  | 21.2%   | 29.9%   | 36.0%   | 40.9%   | 44.8%   | 57.7%    | 70.7%    |
-| Lem_alar                   |           32288  | 23.1%   | 32.6%   | 39.4%   | 44.4%   | 48.6%   | 62.3%    | 75.5%    |
-| Şuâlar                     |           46138  | 25.0%   | 34.7%   | 41.7%   | 47.1%   | 51.5%   | 65.3%    | 78.0%    |
-| Asâ-yı Mûsâ                |           17228  | 28.3%   | 38.7%   | 45.9%   | 51.3%   | 55.7%   | 69.8%    | 83.3%    |
-| Barla Lâhikası             |           23344  | 22.6%   | 31.5%   | 37.5%   | 42.1%   | 45.8%   | 58.1%    | 70.8%    |
-| Kastamonu Lâhikası         |           15357  | 29.5%   | 39.8%   | 46.7%   | 51.9%   | 56.0%   | 68.9%    | 81.4%    |
-| Emirdağ Lâhikası           |           29171  | 26.3%   | 37.2%   | 44.6%   | 50.1%   | 54.5%   | 68.1%    | 80.9%    |
-| İman ve Küfür Muvazeneleri |           12218  | 25.3%   | 35.3%   | 42.3%   | 47.7%   | 52.2%   | 66.6%    | 80.5%    |
-| Tarihçe-i Hayat            |           39720  | 20.1%   | 29.2%   | 35.8%   | 41.0%   | 45.4%   | 59.5%    | 73.0%    |
+| Kitap                 | Toplam | 100   | 200   | 500   | 1000  |
+| --------------------- | ------ | ----- | ----- | ----- | ----- |
+| 1-Sözler              | 56384  | 22.6% | 31.7% | 46.7% | 59.2% |
+| 2-Mektubat            | 33332  | 22.1% | 31.2% | 46.8% | 60.2% |
+| 3-Lem'alar            | 32288  | 24.2% | 34.0% | 50.5% | 64.5% |
+| 4-Şuâlar              | 46145  | 25.5% | 35.5% | 52.7% | 66.9% |
+| 5-Mesnevî-i Nuriye    | 19858  | 25.8% | 35.7% | 52.2% | 66.5% |
+| 6-İşârâtü'l-İ'câz     | 19587  | 24.6% | 35.3% | 53.3% | 68.2% |
+| 7-Asâ-yı Mûsâ         | 17228  | 28.8% | 39.6% | 57.0% | 71.3% |
+| 8-Barla Lâhikası      | 23345  | 23.9% | 33.1% | 47.8% | 60.2% |
+| 9-Kastamonu Lâhikası  | 15358  | 30.6% | 41.1% | 57.8% | 70.9% |
+| 10-Emirdağ Lâhikası   | 29175  | 27.3% | 38.5% | 56.1% | 69.8% |
+| 11-İman ve Küfür Muv. | 12218  | 26.3% | 36.8% | 54.3% | 68.9% |
+| 12-Sikke-i Tasdîk-ı G | 14928  | 26.1% | 36.3% | 52.8% | 66.2% |
+| 13-Muhakemat          | 9993   | 18.6% | 26.9% | 41.6% | 55.7% |
+| 14-Tarihçe-i Hayat    | 39721  | 20.9% | 30.4% | 47.1% | 61.6% |
+| 15-İlk Dönem Eserleri | 29217  | 15.3% | 22.9% | 36.5% | 49.4% |
 
-<br/><br/>
 
-Aşağıdaki kod yaptığım çalışmada kullandığım bir parça. Kodların tamamını yukarıdaki "Risale_i_Nur_Kelime_Analizleri_2022_07_28.ipynb" dosyasında bulabilirsiniz.
+## Terkipsiz kelimelerin karşıladığı **rakamsal** değerler
 
-Buradan yola çıkarak kelimelerin pek çoğunun ilgili konuya özel ve sadece yerinde kullanıldığını görebiliriz. 
+| Kitap                     | Toplam | Özgün | 100    | 200    | 500    | 1000   |
+| ------------------------- | ------ | ----- | ------ | ------ | ------ | ------ |
+| 1-Sözler                  | 70,543 | 7,991 | 19,315 | 26,822 | 39,025 | 49,060 |
+| 2-Mektubat                | 43,502 | 6,275 | 12,425 | 17,032 | 24,648 | 30,984 |
+| 3-Lem'alar                | 39,988 | 5,658 | 11,222 | 15,740 | 23,061 | 29,067 |
+| 4-Şuâlar                  | 55,815 | 6,388 | 15,262 | 21,604 | 32,260 | 40,896 |
+| 5-Mesnevî-i Nuriye        | 23,878 | 4,677 | 7,154  | 9,705  | 13,928 | 17,445 |
+| 6-İşârâtü'l-İ'câz         | 22,727 | 4,561 | 5,917  | 8,417  | 12,761 | 16,424 |
+| 7-Asâ-yı Mûsâ             | 20,813 | 3,797 | 6,666  | 9,171  | 13,098 | 16,193 |
+| 8-Barla Lâhikası          | 30,187 | 6,063 | 8,370  | 11,505 | 16,478 | 20,702 |
+| 9-Kastamonu Lâhikası      | 19,168 | 3,915 | 6,066  | 8,356  | 12,008 | 14,735 |
+| 10-Emirdağ Lâhikası       | 36,133 | 5,093 | 10,442 | 14,865 | 21,887 | 27,340 |
+| 11-İman ve Küfür Muv.     | 15,015 | 3,485 | 4,462  | 6,250  | 9,108  | 11,433 |
+| 12-Sikke-i Tasdîk-ı Gaybî | 19,387 | 4,196 | 5,927  | 8,227  | 11,852 | 14,585 |
+| 13-Muhakemat              | 13,134 | 4,221 | 3,085  | 4,371  | 6,638  | 8,693  |
+| 14-Tarihçe-i Hayat        | 48,680 | 7,018 | 11,816 | 16,682 | 25,461 | 33,146 |
+| 15-İlk Dönem Eserleri     | 37,565 | 8,102 | 7,512  | 10,834 | 16,922 | 22,385 |
+
+## Terkipsiz kelimelerin karşıladığı **yüzdelik** dilimler
+
+Şimdi en çok kullanılan kelimelerin tekrarlarına odaklanalım.
+Sözler adlı kitapta sayfa altlarındaki sözlükte bulunan kelime sayısı, tekrarlar dahil 70543 </br>
+Sözler adlı kitapta sayfa altlarındaki sözlükte bulunan kelime sayısı, tekrarlar hariç 7991 </br>
+Evet 200 kelime tekrarların yaklaşık %40 kadarını karşılıyor. Başlangıç için çok iyi öyle değil mi?
+
+| Kitap                     | Toplam | 100   | 200   | 500   | 1000  |
+| ------------------------- | ------ | ----- | ----- | ----- | ----- |
+| 1-Sözler                  | 70543  | 27.4% | 38.0% | 55.3% | 69.5% |
+| 2-Mektubat                | 43502  | 28.6% | 39.1% | 56.7% | 71.2% |
+| 3-Lem'alar                | 39988  | 28.1% | 39.4% | 57.7% | 72.7% |
+| 4-Şuâlar                  | 55815  | 27.3% | 38.7% | 57.8% | 73.3% |
+| 5-Mesnevî-i Nuriye        | 23878  | 30.0% | 40.6% | 58.3% | 73.1% |
+| 6-İşârâtü'l-İ'câz         | 22727  | 26.0% | 37.0% | 56.1% | 72.3% |
+| 7-Asâ-yı Mûsâ             | 20813  | 32.0% | 44.1% | 62.9% | 77.8% |
+| 8-Barla Lâhikası          | 30187  | 27.7% | 38.1% | 54.6% | 68.6% |
+| 9-Kastamonu Lâhikası      | 19168  | 31.6% | 43.6% | 62.6% | 76.9% |
+| 10-Emirdağ Lâhikası       | 36133  | 28.9% | 41.1% | 60.6% | 75.7% |
+| 11-İman ve Küfür Muv.     | 15015  | 29.7% | 41.6% | 60.7% | 76.1% |
+| 12-Sikke-i Tasdîk-ı Gaybî | 19387  | 30.6% | 42.4% | 61.1% | 75.2% |
+| 13-Muhakemat              | 13134  | 23.5% | 33.3% | 50.5% | 66.2% |
+| 14-Tarihçe-i Hayat        | 48680  | 24.3% | 34.3% | 52.3% | 68.1% |
+| 15-İlk Dönem Eserleri     | 37565  | 20.0% | 28.8% | 45.0% | 59.6% |
+
+500 kelime %55+ ve fazlasını karşılıyor!
+1000 kelime ise %70+ kelimeyi karşılıyor ve sözlüklere tekrar tekrar bakmaktan kurtarıyor.
+
+Fakat kelime sayısı arttıkça sıklık azalıyor. Buradan yola çıkarak kelimelerin pek çoğunun ilgili konuya özel ve sadece yerinde kullanıldığını söyleyebiliriz. 
+
 Ayrıca sayfa altlarında bulunan kelimeleri derleme şeklimiz %100 doğru sonuca ulaşmamızı engellediğini de belirtmek gerekli. 
 Çünkü sayfa altındaki kelime listesine erisale.com gibi sitelerden derledik. 
-Bir sayfada birden fazla tekrarı olmuş olsa bile sayfa altında bir defa geçtiğinden frekans değeri etkilenmiş olacaktır. 
-Fakat ilk 500 kelime listesi içinde sırası değişse de liste içinde kalacağını (%90+) söyleyebiliriz.
+Bir sayfada birden fazla tekrarı olmuş olsa bile sayfa altında bir defa geçtiğinden frekans değeri etkilenmiş olacaktır. Hem yine bazı kelimeler kök formlarında bulunmadığından tam sayıyı bulamıyoruz. Fakat sıralama konusunda ciddi bir başarı söz konusu. İlk 500 kelime listesi içinde sırası değişse de liste içinde kalacağını (%90+) söyleyebiliriz.
 
 --------
 
-Şimdi en çok kullanılan kelimelerin tekrarlarına odaklanalım.
-İlk 100, 200 ... 1000 ve 2'den fazla tekrarlananların toplam değerini bulalım.
-```python
-ozgun = sozler['kelime'].value_counts()
-
-for x in [100, 200, 300, 400, 500, 1000, 2000]:
-    print(f"Sözler'deki ilk {x} kelimenin tekrar toplamı : ",  ozgun.head(x).sum())
-```
-Yukarıdaki kod çıktı olarak aşağıdaki sonuçları vermektedir.
-```
-Sözler'deki ilk 100 kelimenin tekrar toplamı :  12234
-Sözler'deki ilk 200 kelimenin tekrar toplamı :  17185
-Sözler'deki ilk 300 kelimenin tekrar toplamı :  20647
-Sözler'deki ilk 400 kelimenin tekrar toplamı :  23231
-Sözler'deki ilk 500 kelimenin tekrar toplamı :  25288
-Sözler'deki ilk 1000 kelimenin tekrar toplamı :  32042
-Sözler'deki ilk 2000 kelimenin tekrar toplamı :  39050
-```
-
-Sözler adlı kitapta sayfa altlarındaki sözlükte bulunan kelime sayısı, tekrarlar dahil 56385 </br>
-Sözler adlı kitapta sayfa altlarındaki sözlükte bulunan kelime sayısı, tekrarlar hariç 13629 </br>
-
-
-Evet 100 kelime tekrarların yaklaşık %25'ini karşılıyor. Başlangıç için çok iyi öyle değil mi?
-
-| Kitap                      | 100 Kelime | 200 Kelime | 300 Kelime | 400 Kelime | 500 Kelime | 1000 Kelime | 2000 Kelime |
-| -------------------------- | -------    | -------    | -------    | -------    | -------    | --------    | --------    |
-| Sözler                     | 21.7%      | 30.5%      | 36.6%      | 41.2%      | 44.8%      | 56.8%       | 69.3%       |
-| Mektubat                   | 21.2%      | 29.9%      | 36.0%      | 40.9%      | 44.8%      | 57.7%       | 70.7%       |
-| Lem_alar                   | 23.1%      | 32.6%      | 39.4%      | 44.4%      | 48.6%      | 62.3%       | 75.5%       |
-| Şuâlar                     | 25.0%      | 34.7%      | 41.7%      | 47.1%      | 51.5%      | 65.3%       | 78.0%       |
-| Asâ-yı Mûsâ                | 28.3%      | 38.7%      | 45.9%      | 51.3%      | 55.7%      | 69.8%       | 83.3%       |
-| Barla Lâhikası             | 22.6%      | 31.5%      | 37.5%      | 42.1%      | 45.8%      | 58.1%       | 70.8%       |
-| Kastamonu Lâhikası         | 29.5%      | 39.8%      | 46.7%      | 51.9%      | 56.0%      | 68.9%       | 81.4%       |
-| Emirdağ Lâhikası           | 26.3%      | 37.2%      | 44.6%      | 50.1%      | 54.5%      | 68.1%       | 80.9%       |
-| İman ve Küfür Muvazeneleri | 25.3%      | 35.3%      | 42.3%      | 47.7%      | 52.2%      | 66.6%       | 80.5%       |
-| Tarihçe-i Hayat            | 20.1%      | 29.2%      | 35.8%      | 41.0%      | 45.4%      | 59.5%       | 73.0%       |
-
-Kelime sayısı arttıkça sıklık azalıyor.
-300 kelime %40'ı karşılıyor!
-1000 kelime ise %60+ kelimeyi karşılıyor ve lügata bakmaktan kurtarıyor.
 
 Sonuç olarak yeni başlayanlar ve çocuklar için ilk 300-500 kelimenin öğrenileceği basit bir sözlük çok elverişli olacağı apaçık ortadadır.
 Peki ilk 100 kelimede neler var?
