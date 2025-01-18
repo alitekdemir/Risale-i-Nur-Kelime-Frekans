@@ -17,11 +17,11 @@ Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre 
 # Terkipli Kelimeler (tekil ve tamlamalar)
 
 ## Terkipli kelimelerin karşıladığı **rakamsal** değerler.
-Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 12,755 defa azalmış olacaktır.
+Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 12,755 🔴 defa azalmış olacaktır.
 
 | Kitap                         | Toplam Kelime | Özgün Kelime | 100 Kelime | 200 Kelime | 500 Kelime | 1000 Kelime |
 | ----------------------------- | ------------- | ------------ | ---------- | ---------- | ---------- | ----------- |
-| 1-Sözler                      | 56,384        | 12,692       | 12,755     | 17,883     | 26,341     | 33,366      |
+| 1-Sözler                      | 56,384        | 12,692       | 12,755 🔴 | 17,883     | 26,341     | 33,366      |
 | 2-Mektubat                    | 33,332        | 8,735        | 7,376      | 10,396     | 15,612     | 20,070      |
 | 3-Lem'alar                    | 32,288        | 7,645        | 7,819      | 10,986     | 16,299     | 20,813      |
 | 4-Şuâlar                      | 46,145        | 8,682        | 11,754     | 16,367     | 24,337     | 30,863      |
@@ -38,11 +38,11 @@ Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya
 | 15-İlk Dönem Eserleri         | 29,217        | 10,552       | 4,469      | 6,701      | 10,669     | 14,428      |
 
 ## Terkipli kelimelerin karşıladığı **yüzdelik** dilimler.
-Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 22.6% oranında azalmış olacaktır.
+Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 22.6% 🍎 oranında azalmış olacaktır.
 
 | Kitap                 | Toplam | 100   | 200   | 500   | 1000  |
 | --------------------- | ------ | ----- | ----- | ----- | ----- |
-| 1-Sözler              | 56384  | 22.6% | 31.7% | 46.7% | 59.2% |
+| 1-Sözler              | 56384  | 22.6% 🍎| 31.7% | 46.7% | 59.2% |
 | 2-Mektubat            | 33332  | 22.1% | 31.2% | 46.8% | 60.2% |
 | 3-Lem'alar            | 32288  | 24.2% | 34.0% | 50.5% | 64.5% |
 | 4-Şuâlar              | 46145  | 25.5% | 35.5% | 52.7% | 66.9% |
@@ -63,7 +63,7 @@ Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya
 
 | Kitap                     | Toplam | Özgün | 100    | 200    | 500    | 1000   |
 | ------------------------- | ------ | ----- | ------ | ------ | ------ | ------ |
-| 1-Sözler                  | 70,543 | 7,991 | 19,315 | 26,822 | 39,025 | 49,060 |
+| 1-Sözler                  | 70,543 | 7,991 | 19,315 🔺 | 26,822 | 39,025 | 49,060 |
 | 2-Mektubat                | 43,502 | 6,275 | 12,425 | 17,032 | 24,648 | 30,984 |
 | 3-Lem'alar                | 39,988 | 5,658 | 11,222 | 15,740 | 23,061 | 29,067 |
 | 4-Şuâlar                  | 55,815 | 6,388 | 15,262 | 21,604 | 32,260 | 40,896 |
@@ -88,7 +88,7 @@ Evet 200 kelime tekrarların yaklaşık %40 kadarını karşılıyor. Başlangı
 
 | Kitap                     | Toplam | 100   | 200   | 500   | 1000  |
 | ------------------------- | ------ | ----- | ----- | ----- | ----- |
-| 1-Sözler                  | 70543  | 27.4% | 38.0% | 55.3% | 69.5% |
+| 1-Sözler                  | 70543  | 27.4% | 38.0% | 55.3% 🔺 | 69.5% 🔺|
 | 2-Mektubat                | 43502  | 28.6% | 39.1% | 56.7% | 71.2% |
 | 3-Lem'alar                | 39988  | 28.1% | 39.4% | 57.7% | 72.7% |
 | 4-Şuâlar                  | 55815  | 27.3% | 38.7% | 57.8% | 73.3% |
@@ -104,8 +104,8 @@ Evet 200 kelime tekrarların yaklaşık %40 kadarını karşılıyor. Başlangı
 | 14-Tarihçe-i Hayat        | 48680  | 24.3% | 34.3% | 52.3% | 68.1% |
 | 15-İlk Dönem Eserleri     | 37565  | 20.0% | 28.8% | 45.0% | 59.6% |
 
-500 kelime %55+ ve fazlasını karşılıyor!
-1000 kelime ise %70+ kelimeyi karşılıyor ve sözlüklere tekrar tekrar bakmaktan kurtarıyor.
+500 kelime %55+🔺 ve fazlasını karşılıyor!
+1000 kelime ise %70+🔺 kelimeyi karşılıyor ve sözlüklere tekrar tekrar bakmaktan kurtarıyor.
 
 Fakat kelime sayısı arttıkça sıklık azalıyor. Buradan yola çıkarak kelimelerin pek çoğunun ilgili konuya özel ve sadece yerinde kullanıldığını söyleyebiliriz. 
 
