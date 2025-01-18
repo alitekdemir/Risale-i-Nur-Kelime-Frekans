@@ -10,7 +10,7 @@ Aslında eserlerde geçen pek çok kelimeyi, Türkçe bilen hemen hemen herkesin
 Böylelikle her yeni okuyucu çok hızlı bir şekilde eserlerden tek başına daha doğru istifade edebilmeye başlayacaktır.
 ## *Frekansı en çok olanı önce öğrenerek sözlüklere daha az bakmaya matematiksel bir yaklaşım.*
 
-Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre örneğin Sözler adlı kitaptaki 13629 farklı kelimeyi (bunların bir kısmı eklerle türetilmiştir; hakiki, hakikat, hakaik gibi) bilebilseydik 56385 defa sayfa altına bakma ihtiyacı duymazdık. Tabi bu kadar kelimeyi öğrenmek zaman alacaktır fakat başlangıç için en çok kullanılan kelimelerin ilk 100 adeti acaba bize ne kazandırırdı? En çok tekrarlanan ilk 300 veya 500 kelime toplamda kaç tekrar gücüne sahip? Bizi kaç defa sayfa altlarına bakmaktan kurtarabilir?
+Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre örneğin Sözler adlı kitaptaki 12,692 farklı kelimeyi (bunların bir kısmı eklerle türetilmiştir; hakiki, hakikat, hakaik gibi) bilebilseydik 56,384 defa sayfa altına bakma ihtiyacı duymazdık. Tabi bu kadar kelimeyi öğrenmek zaman alacaktır fakat başlangıç için en çok kullanılan kelimelerin ilk 100 adeti acaba bize ne kazandırırdı? En çok tekrarlanan ilk 300 veya 500 kelime toplamda kaç tekrar gücüne sahip? Bizi kaç defa sayfa altlarına bakmaktan kurtarabilir?
 
 <br/><br/>
 
