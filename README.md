@@ -56,7 +56,7 @@ Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya
 | 14-Tarihçe-i Hayat    | 39721  | 20.9% | 30.4% | 47.1% | 61.6% |
 | 15-İlk Dönem Eserleri | 29217  | 15.3% | 22.9% | 36.5% | 49.4% |
 
-
+# Terkipsiz (tekil)
 ## Terkipsiz kelimelerin karşıladığı **rakamsal** değerler
 
 | Kitap                     | Toplam | Özgün | 100    | 200    | 500    | 1000   |
@@ -107,12 +107,14 @@ Evet 200 kelime tekrarların yaklaşık %40 kadarını karşılıyor. Başlangı
 
 Fakat kelime sayısı arttıkça sıklık azalıyor. Buradan yola çıkarak kelimelerin pek çoğunun ilgili konuya özel ve sadece yerinde kullanıldığını söyleyebiliriz. 
 
+
 Ayrıca sayfa altlarında bulunan kelimeleri derleme şeklimiz %100 doğru sonuca ulaşmamızı engellediğini de belirtmek gerekli. 
 Çünkü sayfa altındaki kelime listesine erisale.com gibi sitelerden derledik. 
 Bir sayfada birden fazla tekrarı olmuş olsa bile sayfa altında bir defa geçtiğinden frekans değeri etkilenmiş olacaktır. Hem yine bazı kelimeler kök formlarında bulunmadığından tam sayıyı bulamıyoruz. Fakat sıralama konusunda ciddi bir başarı söz konusu. İlk 500 kelime listesi içinde sırası değişse de liste içinde kalacağını (%90+) söyleyebiliriz.
 
 --------
 
+![FreqansGrafiği](https://github.com/alitekdemir/Risale-i-Nur-Kelime-Frekans/blob/main/data/BooksFreq.png)
 
 Sonuç olarak yeni başlayanlar ve çocuklar için ilk 300-500 kelimenin öğrenileceği basit bir sözlük çok elverişli olacağı apaçık ortadadır.
 Peki ilk 100 kelimede neler var?
