@@ -58,7 +58,16 @@ Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya
 | 14-Tarihçe-i Hayat    | 39721  | 20.9% | 30.4% | 47.1% | 61.6% |
 | 15-İlk Dönem Eserleri | 29217  | 15.3% | 22.9% | 36.5% | 49.4% |
 
-# Terkipsiz (tekil)
+# Terkipsiz (tekil) 🏆
+
+> Bu bölümü tek cümlede ifade etmek gerekirse; <br> 100 kelimeyi öğrenirseniz 20,000 defa sayfa altına bakmaktan kurtulursunuz.
+
+Tekil kelimeler, sayfanın alt kısmındaki sözlükte yer alan ifade gruplarını parçalayıp, ayrı ayrı ele alarak elde edilen sonuçları ifade eder.
+Örneğin: [fünun-u hikmet, hikmet-i âlem, hikmet-i fenniye, hikmet-i kudsiye] gibi terkip (kelime grubu) hâlindeki ifadeler, boşluk ve bağlaçlardan bölünerek analiz edilmiştir. 
+Bu işlem sonunda şu şekilde bir frekans listesi oluşturulmuştur: [fünun: 1, hikmet: 4, âlem: 1, fenniye: 1, kudsiye: 1].
+Terkipli ifadelerde (birden fazla kelime içeren yapılar) her bir kelime ayrı ayrı değerlendirilmiştir. 
+Dolayısıyla, "terkipsiz" (tekil) kelimelerle hesaplama yapıldığında, toplam kelime sayısının artması buna rağmen özgün kelime sayısının azalması bu yöntemle ilgilidir.
+
 ## Terkipsiz kelimelerin karşıladığı **rakamsal** değerler
 
 | Kitap                     | Toplam | Özgün | 100    | 200    | 500    | 1000   |
@@ -81,9 +90,10 @@ Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya
 
 ## Terkipsiz kelimelerin karşıladığı **yüzdelik** dilimler
 
-Şimdi en çok kullanılan kelimelerin tekrarlarına odaklanalım.
-Sözler adlı kitapta sayfa altlarındaki sözlükte bulunan kelime sayısı, tekrarlar dahil 70543 </br>
-Sözler adlı kitapta sayfa altlarındaki sözlükte bulunan kelime sayısı, tekrarlar hariç 7991 </br>
+Şimdi en çok kullanılan kelimelerin tekrarlarına odaklanalım. </br></br>
+Sözler adlı kitapta, sayfa altlarındaki sözlükte bulunan kelime sayısı </br>
+**Tekrarlar dahil 70,543** </br>
+**Tekrarlar hariç 7,991** </br>
 Evet 200 kelime tekrarların yaklaşık %40 kadarını karşılıyor. Başlangıç için çok iyi öyle değil mi?
 
 | Kitap                     | Toplam | 100   | 200   | 500   | 1000  |
