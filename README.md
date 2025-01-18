@@ -17,7 +17,7 @@ Yaptığım çalışmada aşağıdaki değerlere ulaştım. Bu değerlere göre 
 # Terkipli Kelimeler (tekil ve tamlamalar)
 
 ## Terkipli kelimelerin karşıladığı **rakamsal** değerler.
-Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 12,692 defa azalmış olacaktır.
+Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 12,755 defa azalmış olacaktır.
 
 | Kitap                         | Toplam Kelime | Özgün Kelime | 100 Kelime | 200 Kelime | 500 Kelime | 1000 Kelime |
 | ----------------------------- | ------------- | ------------ | ---------- | ---------- | ---------- | ----------- |
@@ -38,7 +38,7 @@ Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya
 | 15-İlk Dönem Eserleri         | 29,217        | 10,552       | 4,469      | 6,701      | 10,669     | 14,428      |
 
 ## Terkipli kelimelerin karşıladığı **yüzdelik** dilimler.
-Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de yüzde 22.6 oranında azalmış olacaktır.
+Bu şu demek; 100 kelimeyi bildiğinizden emin olduğunuzda, bir sözlüğe veya sayfa altı lügate bakma ihtiyacınız Sözler'de 22.6% oranında azalmış olacaktır.
 
 | Kitap                 | Toplam | 100   | 200   | 500   | 1000  |
 | --------------------- | ------ | ----- | ----- | ----- | ----- |
